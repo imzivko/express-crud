@@ -1,7 +1,7 @@
 {
-  "name": "express-expenses-api-mongodb",
-  "version": "1.2.0",
-  "description": "",
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "basic express crud api",
   "main": "src/index.ts",
   "scripts": {
     "start": "ts-node src/index.ts",

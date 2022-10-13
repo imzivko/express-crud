@@ -1,5 +1,3 @@
-# Expenses API
-
 # Express - Typescript - MongoDB
 
 Includes API Server utilities:
